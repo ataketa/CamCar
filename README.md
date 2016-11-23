@@ -1,17 +1,17 @@
-># <font face="黑体">**CamCar**</font>
->It is our first time to use github to handle the project.
+># ==CamCar==
+>It is the first time to use github to handle the project.
 
 >##**introduction**
->Our aim is to build a camera car with raspberry pi,stm32 and android(as a remote controller).
->Our car is expected to have the following function:
->>1.  being able to go forward,backward,left,right
+>*Our aim is to build a camera car with raspberry pi,stm32 and android(as a remote controller).*
+>The car is expected to have following functions:
+>>1.  being able to go forward,backward,left and right
 >>2.  the servo in the car can turn the camera up and down
 >>3.  remote control
->>4.  video transport
->>5.  auto obstacle avoidance
+>>4.  video transmission
+>>5.  automatic  collision-avoidance
 >>6.  object tracking
 
->##**requirement** 
+>##requirement 
 
 >>###requirement:hardware
 
@@ -22,31 +22,28 @@
 >>>####2.android phone
 
 >>>####3.motor and servo
->>>>1.  tow motors with driver board
->>>>2.  one servo(which is used to turn camera)
+>>>>1.  tow motors with the driver board
+>>>>2.  one servo which is used to turn a camera
 
 >>>####4.power bank
 >>>>(we use power banks as power)
 
->>>####5.infared sensor
->>>>(we will use infared leds,collectors and bjts to build up our infared sensor)
+>>>####5.infrared sensor
+>>>>(we would use infrared leds,collectors and bjts to build up the infrared sensor)
 
->>###**requirement:software**
+>>###requirement:software
 
 >>>####v4l2rtspserver
 <pre><code>
 git clone --recursive https://github.com/mpromonet/v4l2rtspserver.git
-cd v4l2rtspserver/v4l2wrapper
+cd v4l2rtspserver4l2wrapper
 make
 cd ..
-cp v4l2wrapper/libv4l2wrapper.a .
+cp v4l2wrapperbv4l2wrapper.a .
 cmake . && make
 make install
 </code></pre>
 (for more information please visit the https://github.com/mpromonet/v4l2rtspserver.git)
-
-
-
 
 
 
