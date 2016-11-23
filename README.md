@@ -1,7 +1,7 @@
-># CamCar
+># <font face="黑体">**CamCar**</font>
 >It is our first time to use github to handle the project.
 
->##introduction
+>##**introduction**
 >Our aim is to build a camera car with raspberry pi,stm32 and android(as a remote controller).
 >Our car is expected to have the following function:
 >>1.  being able to go forward,backward,left,right
@@ -11,7 +11,7 @@
 >>5.  auto obstacle avoidance
 >>6.  object tracking
 
->##requirement 
+>##**requirement** 
 
 >>###requirement:hardware
 
@@ -31,7 +31,7 @@
 >>>####5.infared sensor
 >>>>(we will use infared leds,collectors and bjts to build up our infared sensor)
 
->>###requirement:software
+>>###**requirement:software**
 
 >>>####v4l2rtspserver
 <pre><code>
