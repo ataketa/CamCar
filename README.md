@@ -4,12 +4,12 @@
 >##introduction
 >Our aim is to build a camera car with raspberry pi,stm32 and android(as a remote controller).
 >Our car is expected to have the following function:
->>1.being able to go forward,backward,left,right
->>2.the servo in the car and turn the camera up and down
->>3.remote control
->>4.video transport 
->>5.auto Obstacle avoidance
->>6.object tracking
+>>1.  being able to go forward,backward,left,right
+>>2.  the servo in the car and turn the camera up and down
+>>3.  remote control
+>>4.  video transport 
+>>5.  auto Obstacle avoidance
+>>6.  object tracking
 
 >##requirement 
 
