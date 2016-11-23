@@ -16,14 +16,14 @@
 >>###requirement:hardware
 
 >>>####1.mcu or board
->>>>1.raspberry pi 2 or later version
->>>>2.stm32f103
+>>>>1.  raspberry pi 2 or later version
+>>>>2.  stm32f103
 
 >>>####2.android phone
 
 >>>####3.motor and servo
->>>>1.tow motors with driver board
->>>>2.one servo(which is used to turn camera)
+>>>>1.  tow motors with driver board
+>>>>2.  one servo(which is used to turn camera)
 
 >>>####4.power bank
 >>>>(we use power banks as power)
