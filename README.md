@@ -35,6 +35,10 @@
 
 >>>####v4l2rtspserver
 <pre><code>
+wget http://www.live555.com/liveMedia/public/live555-latest.tar.gz -O - | tar xvzf -
+cd live
+./genMakefiles linux
+sudo make CPPFLAGS=-DALLOW_RTSP_SERVER_PORT_REUSE=1 install
 git clone --recursive https://github.com/mpromonet/v4l2rtspserver.git
 cd v4l2rtspserver/v4l2wrapper
 make
