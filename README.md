@@ -1,5 +1,5 @@
 ># <font face="黑体">**CamCar**</font>
->###The code is terrible,we have done little modification.But anyway,it works.
+>###The code is terrible。we have done little modification.But anyway,it works.
 >It is our first time to use github to handle the project.
 
 >##**introduction**
@@ -12,7 +12,7 @@
 >>5.  auto obstacle avoidance
 >>6.  object tracking
 
->##**requirement** 
+>##**requirement**
 
 >>###requirement:hardware
 
@@ -49,11 +49,3 @@ cmake . && make
 make install
 </code></pre>
 (for more information please visit the https://github.com/mpromonet/v4l2rtspserver.git)
-
-
-
-
-
-
-
-
