@@ -33,7 +33,7 @@
 
 >>###**requirement:software**
 
->>>####v4l2rtspserver
+>>>####v4l2rtspserver (in raspberry)
 <pre><code>
 wget http://www.live555.com/liveMedia/public/live555-latest.tar.gz -O - | tar xvzf -
 cd live
