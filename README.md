@@ -1,5 +1,5 @@
 ># <font face="黑体">**CamCar**</font>
->###The code is terrible。we have done little modification.But anyway,it works.
+>###The code is terrible.We have done little modification.But anyway,it works.
 >It is our first time to use github to handle the project.
 
 >##**introduction**
