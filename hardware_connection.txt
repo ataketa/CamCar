@@ -4,8 +4,8 @@ PC7 -->left motor "-" input on the driver board
 PC8 -->right motor "+" input on the driver board 
 PC9 -->right motor "-" input on the driver board 
 
-PB0 -->left motor pwm
-PB1 -->right motor pwm
+PB0 -->left motor pwm input on the driver board 
+PB1 -->right motor pwm input on the driver board 
 
 PB8 --> servo
 
