@@ -1,0 +1,13 @@
+PC6 -->left motor +
+PC7 -->left motor -
+
+PC8 -->right motor +
+PC9 -->right motor -
+
+PB0 -->left motor pwm
+PB1 -->right motor pwm
+
+PB8 --> servo
+
+PC1 --> front infared sensor £¨ADC1£©
+PC0 --> back infared sensor  £¨ADC3£©
