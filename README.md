@@ -30,7 +30,7 @@
 >>>>(we use power banks as power)
 
 >>>####5.infared sensor
->>>>(we will use infared leds,collectors and bjts to build up our infared sensor)
+>>>>(we use infared leds and phototransistors to build up our infared sensor)
 
 >>###**requirement:software**
 
