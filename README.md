@@ -17,7 +17,7 @@
 >>###requirement:hardware
 
 >>>####1.mcu or board
->>>>1.  raspberry pi 2 or later version
+>>>>1.  raspberry pi 1 model B or later version
 >>>>2.  stm32f103
 
 >>>####2.android phone
