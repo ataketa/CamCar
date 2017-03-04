@@ -2,8 +2,9 @@
 >###The code is terrible.We have done little modification.But anyway,it works.
 >Maybe we will modify it later.  
 >  
->It is our first time to use github to handle the project.
-
+>It is our first time to use github to handle the project.  
+>
+>The android application is written by SuperAzhe  https://github.com/SuperAZHE/CamCar
 >##**introduction**
 >Our aim is to build a camera car with raspberry pi,stm32 and android(as a remote controller).
 >Our car is expected to have the following function:
